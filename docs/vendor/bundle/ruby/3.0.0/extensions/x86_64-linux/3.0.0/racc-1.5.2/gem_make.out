@@ -1,0 +1,16 @@
+current directory: /home/pulz/githubpages/bbernal.github.io/docs/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/home/pulz/local/ruby-3.0.1/bin/ruby -I /home/pulz/local/ruby-3.0.1/lib/ruby/site_ruby/3.0.0 -r ./siteconf20210608-54371-h4eyng.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/pulz/githubpages/bbernal.github.io/docs/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/pulz/githubpages/bbernal.github.io/docs/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/pulz/githubpages/bbernal.github.io/docs/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20210608-54371-no2b4v/racc
