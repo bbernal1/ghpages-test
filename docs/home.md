@@ -1,6 +1,6 @@
 ---
 layout: page
 title: My Blog
-permalink: /
+permalink: /home
 ---
 Welcome
